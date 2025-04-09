@@ -1,6 +1,6 @@
 # 🛡️ Elish the Watchcat: GitHub Action to Track Humane Society Listings
 
-![Elish the Warrior](./A_digital_painting_in_a_semi-realistic_style_with_.png)
+![Elish the Warrior](elish/ChatGPT Image Apr 8, 2025, 11_58_05 PM.png)
 
 > “She may have been wounded, but she is still fierce.”  
 > – In loving memory and hope for reunion.
